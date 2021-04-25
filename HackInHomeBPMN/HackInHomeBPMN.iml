@@ -121,5 +121,7 @@
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-jdbc:5.2.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.2.7.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.5" level="project" />
+    <orderEntry type="library" name="Maven: org.jetbrains:annotations:20.1.0" level="project" />
   </component>
 </module>
